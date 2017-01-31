@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER Lucas Veloso <lveloso@zoologic.com.ar>
+MAINTAINER Lucas Veloso <velosolucas6@gmail.com>
 
 #=============================================
 # Instalar paquete de desarrollo para centOS
